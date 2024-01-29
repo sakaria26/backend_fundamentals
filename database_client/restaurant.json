@@ -1,0 +1,69 @@
+
+{
+    "name": "Rolling Flash Trattoria",
+    "phone_number": "+264613099980",
+    "address": "5 Independence Avenue, Windhoek, Namibia",
+    "waiter":{
+        "name":"John Doe",
+        "phone_number": "+264811122334"
+    },
+    "dishes": [
+        {
+            "name":"Grouse and tofu panini", 
+            "price":2199.99
+            
+        },
+        {
+            "name":"Grouse and apple ciabatta", 
+            "price":2599.99
+            
+        },
+
+        {
+            "name":"Grouse and gruyere toastie", 
+            "price":199.99
+        },
+        {
+            
+            "name":"Grouse and parmesan bagel", 
+            "price": 299.99
+        }
+    ],
+    "reservations":[
+        {
+            "title":"Sara Fischer", 
+            "date":"2025-01-30", 
+            "start_time":"20:00:00", 
+            "party_size": 5, 
+            "contact_number":"+264813027483", 
+            "table":10,
+            "bill_total":5499.99,
+            "dishes":[
+                {
+                    "name":"Grouse and tofu panini", 
+                    "price":2199.99
+                    
+                },
+                {
+                    "name":"Grouse and apple ciabatta", 
+                    "price":2599.99
+                    
+                },
+        
+                {
+                    "name":"Grouse and gruyere toastie", 
+                    "price":199.99
+                },
+                {
+                    "name":"Grouse and gruyere toastie", 
+                    "price":199.99
+                },
+                {
+                    
+                    "name":"Grouse and parmesan bagel", 
+                    "price": 299.99
+                }
+            ]
+        }
+    ]
+}
