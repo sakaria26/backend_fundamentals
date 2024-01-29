@@ -1,0 +1,68 @@
+Restaurants
+- Name
+- Address
+- Phone Number
+
+Reservations
+- Title
+- Date
+- Start Time
+- Party Size
+- Contact Number
+- Table
+- Waiter
+
+Dishes
+- Title
+- Price
+
+Bill
+- Reservation
+- Items
+- Total
+
+----------------------------------------------
+Restaurant
+- ID
+- Name
+- Phone Number
+- Address ID
+
+Address
+- ID
+- Building Number
+- Street
+- City
+- Country
+
+Reservation
+- ID
+- Title
+- Date
+- Start Time
+- Party Size
+- Contact Number
+- Table
+- Waiter ID
+
+Waiter
+- ID
+- Firstname
+- Lastname
+- Phone Number
+
+Dishes
+- ID
+- Name of Dish
+- Price
+
+Bill
+- ID
+- Reservation
+- Total
+
+Bill_Menu
+- Bill ID
+- Dish ID
+
+
