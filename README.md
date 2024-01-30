@@ -4,11 +4,9 @@ Welcome to the Backend Development Fundamentals Workshop Code Repository! This r
 
 ## Contents
 
-- **Exercises:** Dive into practical exercises designed to reinforce your understanding of key backend development concepts.
-- **Workshop Materials:** Access presentation slides, code samples, and additional resources used during the workshop sessions.
+- **Workshop Materials:** Access presentation [slides](https://stdntpartners-my.sharepoint.com/:p:/g/personal/sakaria_nghivafe_studentambassadors_com/EUXUv4wyUihNnlrk91dFTcgBTz29CPF4KCl4_Fo2pGKlhw?e=EZwc1l), code samples, and additional resources used during the workshop sessions.
 - **Sample Projects:** Explore complete sample projects that showcase real-world applications of backend development principles.
-- **Documentation:** Find comprehensive documentation and guides to accompany the workshop content.
-- **Community Contributions:** Join a vibrant community of learners and contributors!
+- **Developer Roadmap:** Find comprehensive [roadmap](https://roadmap.sh/backend) on becoming a backend developer by @kamranahmedse.
 
 ## Getting Started
 
